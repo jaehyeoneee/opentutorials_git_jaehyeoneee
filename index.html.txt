@@ -1,5 +1,9 @@
 <html>
-	<head></haed>
+	<head>
+		<title>
+			Git소개
+		</title>
+	</haed>
 	<body>
 		<header>
 			<h1>Git</h1>
