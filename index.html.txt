@@ -22,6 +22,7 @@
 			<li>push</li>
 			<li>push_egoing</li>
 			<li>push_leezche</li>
+			<li>conflict_leezche</li>
 		</ul>
 	</body>
 </html>
