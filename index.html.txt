@@ -10,7 +10,6 @@
 			<h1>Git</h1>
 		</header>
 		<ul>
-			<li>sync.egoing</li>
 			<li>Git이란?</li>
 			<li>버전</li>
 			<li>Branch</li>
@@ -18,13 +17,7 @@
 			<li>충돌</li>
 			<li>충돌해결</li>
 			<li>원격저장소</li>
-			<li>push</li>
-			<li>pull</li>
-			<li>push</li>
-			<li>push_egoing</li>
-			<li>push_leezche</li>
-			<li>conflict_egoing.leezche</li>
-			<li>master</li>
+			<li>실험3</li>
 		</ul>
 	</body>
 </html>
