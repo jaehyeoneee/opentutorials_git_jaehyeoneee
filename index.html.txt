@@ -22,6 +22,7 @@
 			<li>pull</li>
 			<li>push</li>
 			<li>push_egoing</li>
+			<li>push_leezche</li>
 		</ul>
 	</body>
 </html>
